@@ -314,6 +314,7 @@ $light_gray:#eee;
     font-size: 16px;
     color: $dark_gray;
     cursor: pointer;
+    cursor: pointer;
     user-select: none;
   }
 

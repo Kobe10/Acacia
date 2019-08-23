@@ -1,3 +1,4 @@
+// 权限工具
 import Cookies from 'js-cookie'
 
 const TokenKey = 'Admin-Token'

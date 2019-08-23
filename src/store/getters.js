@@ -1,3 +1,4 @@
+// getters是store的计算属性，即获取state中状态，但是不做修改
 const getters = {
   sidebar: state => state.app.sidebar,
   size: state => state.app.size,

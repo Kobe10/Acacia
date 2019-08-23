@@ -1,3 +1,4 @@
+// 剪贴板工具类
 import Vue from 'vue'
 import Clipboard from 'clipboard'
 

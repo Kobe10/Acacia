@@ -1,3 +1,4 @@
+// store 状态管理模式
 import Cookies from 'js-cookie'
 
 const state = {
